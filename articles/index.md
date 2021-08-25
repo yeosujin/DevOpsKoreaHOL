@@ -3,6 +3,8 @@
 # Azure DevOps와 Github간 CI/CD 연동 테스트 입니다.
 ## 티켓 자동 완료에 대해서는 다음 문서를 참조 해주세요 [Link](https://docs.microsoft.com/en-us/azure/devops/repos/git/resolution-mentions?view=azure-devops)
 
+### 티켓 완료 테스트를 위해 수정 하였습니다.
+
 ### Resolved 처리를 위한 .md 파일 수정
 
 # Azure DevOps HOL
