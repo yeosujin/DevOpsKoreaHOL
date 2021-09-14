@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:lastest
 MAINTAINER Wimes <junhyun.bae@cloudmt.co.kr>
 
 # Avoiding user interaction with tzdata
