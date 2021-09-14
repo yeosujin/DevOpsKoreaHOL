@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:18.04
 MAINTAINER Wimes <junhyun.bae@cloudmt.co.kr>
 
 # Avoiding user interaction with tzdata
@@ -16,7 +16,6 @@ ENV APACHE_LOG_DIR /var/log/apache2
 
 ADD apache2.conf /etc/apache2/apache2.conf
 COPY ~/_site /var/www/html
-EXPOSE 80 443
 
 ENTRYPOINT ["/usr/sbin/apache2"]
 
