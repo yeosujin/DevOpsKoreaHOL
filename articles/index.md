@@ -1,7 +1,3 @@
-# 컨테이너 기반으로 빌드를 발생 하였습니다. 천천히 실습 같이 하시면 됩니다 ^^
-
-# 컨테이너 빌드 시작.5
-
 # Azure DevOps와 Github간 CI/CD 연동 테스트 입니다.
 ## 티켓 자동 완료에 대해서는 다음 문서를 참조 해주세요 [Link](https://docs.microsoft.com/en-us/azure/devops/repos/git/resolution-mentions?view=azure-devops)
 
