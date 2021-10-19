@@ -1,4 +1,4 @@
-# Markdown 파일을 index.html 로 Parse 해서 웹사이트에 적용하는 예제 입니다.
+# Markdown
 
 # Azure DevOps와 Github간 CI/CD 연동 테스트 입니다.
 ## 티켓 자동 완료에 대해서는 다음 문서를 참조 해주세요 [Link](https://docs.microsoft.com/en-us/azure/devops/repos/git/resolution-mentions?view=azure-devops)
